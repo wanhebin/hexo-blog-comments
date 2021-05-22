@@ -1,1 +1,1 @@
-# hexo-comment
+# hexo-blog-comments
